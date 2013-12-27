@@ -1,4 +1,4 @@
-#include <mw\apgtask.h>
+#include <e32std.h>
 
 TInt E32Main()
 {
